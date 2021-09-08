@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\ikana\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\ikana\\.nuget\\packages"
+      "C:\\Users\\mattx\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mattx\\.nuget\\packages"
     ]
   }
 }
