@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mattx\\workspace\\csharp\\HeistPartII\\HeistPartII.csproj": {}
+    "C:\\Users\\ikana\\workspace\\heist-partII-2fast2furious\\HeistPartII.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mattx\\workspace\\csharp\\HeistPartII\\HeistPartII.csproj": {
+    "C:\\Users\\ikana\\workspace\\heist-partII-2fast2furious\\HeistPartII.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mattx\\workspace\\csharp\\HeistPartII\\HeistPartII.csproj",
+        "projectUniqueName": "C:\\Users\\ikana\\workspace\\heist-partII-2fast2furious\\HeistPartII.csproj",
         "projectName": "HeistPartII",
-        "projectPath": "C:\\Users\\mattx\\workspace\\csharp\\HeistPartII\\HeistPartII.csproj",
-        "packagesPath": "C:\\Users\\mattx\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mattx\\workspace\\csharp\\HeistPartII\\obj\\",
+        "projectPath": "C:\\Users\\ikana\\workspace\\heist-partII-2fast2furious\\HeistPartII.csproj",
+        "packagesPath": "C:\\Users\\ikana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ikana\\workspace\\heist-partII-2fast2furious\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mattx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ikana\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

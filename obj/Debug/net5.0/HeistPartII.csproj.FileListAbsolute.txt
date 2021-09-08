@@ -1,0 +1,16 @@
+C:\Users\ikana\workspace\heist-partII-2fast2furious\obj\Debug\net5.0\HeistPartII.csproj.AssemblyReference.cache
+C:\Users\ikana\workspace\heist-partII-2fast2furious\obj\Debug\net5.0\HeistPartII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikana\workspace\heist-partII-2fast2furious\obj\Debug\net5.0\HeistPartII.AssemblyInfoInputs.cache
+C:\Users\ikana\workspace\heist-partII-2fast2furious\obj\Debug\net5.0\HeistPartII.AssemblyInfo.cs
+C:\Users\ikana\workspace\heist-partII-2fast2furious\obj\Debug\net5.0\HeistPartII.csproj.CoreCompileInputs.cache
+C:\Users\ikana\workspace\heist-partII-2fast2furious\bin\Debug\net5.0\HeistPartII.exe
+C:\Users\ikana\workspace\heist-partII-2fast2furious\bin\Debug\net5.0\HeistPartII.deps.json
+C:\Users\ikana\workspace\heist-partII-2fast2furious\bin\Debug\net5.0\HeistPartII.runtimeconfig.json
+C:\Users\ikana\workspace\heist-partII-2fast2furious\bin\Debug\net5.0\HeistPartII.runtimeconfig.dev.json
+C:\Users\ikana\workspace\heist-partII-2fast2furious\bin\Debug\net5.0\HeistPartII.dll
+C:\Users\ikana\workspace\heist-partII-2fast2furious\bin\Debug\net5.0\ref\HeistPartII.dll
+C:\Users\ikana\workspace\heist-partII-2fast2furious\bin\Debug\net5.0\HeistPartII.pdb
+C:\Users\ikana\workspace\heist-partII-2fast2furious\obj\Debug\net5.0\HeistPartII.dll
+C:\Users\ikana\workspace\heist-partII-2fast2furious\obj\Debug\net5.0\ref\HeistPartII.dll
+C:\Users\ikana\workspace\heist-partII-2fast2furious\obj\Debug\net5.0\HeistPartII.pdb
+C:\Users\ikana\workspace\heist-partII-2fast2furious\obj\Debug\net5.0\HeistPartII.genruntimeconfig.cache

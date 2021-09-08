@@ -10,7 +10,11 @@ namespace HeistPartII
 
         public void PerformSkill(Bank b)
         {
-            b.VaultScore -= SkillLevel
+            b.VaultScore -= SkillLevel;
+            Console.WriteLine($"{Name} is cracking the vault code. Decreased security {SkillLevel} points");
+            if (b.VaultScore <= 0){
+                Console.WriteLine($"{Name} has opened the vault!");
+            }
         }
     }
 }

@@ -10,7 +10,11 @@ namespace HeistPartII
 
         public void PerformSkill(Bank b)
         {
-            b.SecurityGuardScore -= SkillLevel
+            b.SecurityGuardScore -= SkillLevel;
+            Console.WriteLine($"{Name} is beating up the guards. Decreased security {SkillLevel} points");
+            if (b.SecurityGuardScore <= 0){
+                Console.WriteLine($"{Name} has taken care of all guards!");
+            }
         }
     }
 }
