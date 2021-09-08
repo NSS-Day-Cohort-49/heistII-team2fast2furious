@@ -21,6 +21,43 @@ namespace HeistPartII
             Rolodex.Robbers.Add(Carmen);
             Rolodex.Robbers.Add(Chad);
             Rolodex.Robbers.Add(Brad);
+
+            //Prompt user to create new robbers of any class until they do not enter a name
+            while(true) {
+                Console.WriteLine($"There are {Rolodex.Robbers.Count} robbers in your rolodex");
+                Console.WriteLine("Enter a potential crew member's name: ");
+                string robberName = Console.ReadLine();
+                if (robberName == ""){
+                    break;
+                }
+                Console.WriteLine($"Please pick a speciality for {robberName}: \n 1) Hacker \n 2) LockSpecialist \n 3) Muscle");
+                int specialtyIndex = int.Parse(Console.ReadLine());
+                Console.WriteLine($"Please enter {robberName}'s skill level (1-100) :");
+                int robberSkill = int.Parse(Console.ReadLine());
+                Console.WriteLine($"Please enter {robberName}'s desired cut percentage (1-100) : ");
+                int robberCut = int.Parse(Console.ReadLine());
+                switch (specialtyIndex){
+
+                    case 1:
+                    Hacker hacker = new Hacker() { Name = robberName, SkillLevel = robberSkill, PercentageCut = robberCut };
+                    Rolodex.Robbers.Add(hacker);
+                    break;
+
+                    case 2:
+                    LockSpecialist lockSpecialist = new LockSpecialist() { Name = robberName, SkillLevel = robberSkill, PercentageCut = robberCut };
+                    Rolodex.Robbers.Add(lockSpecialist);
+                    break;
+
+                    case 3:
+                    Muscle muscle = new Muscle() { Name = robberName, SkillLevel = robberSkill, PercentageCut = robberCut };
+                    Rolodex.Robbers.Add(muscle);
+                    break;
+
+                    default:
+                    break;
+                }
+                
+            }
         }
     }
 }
